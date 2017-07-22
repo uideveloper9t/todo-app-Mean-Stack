@@ -2,7 +2,7 @@
 
 # Install the dependencies
 
-npm install
+npm install express mongojs ejs body-parser --save
 
 # compile .ts files in Angular. Open another command line and go to the /client folder and run
 
